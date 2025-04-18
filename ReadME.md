@@ -30,8 +30,8 @@ This API allows you to **create**, **read**, **update**, and **delete** todo ite
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YourUsername/Todo-App.git
-   cd Todo-App
+   git clone https://github.com/Singhdhiru/Todo-App.git
+   cd Todo-APP
    ```
 2. Install dependencies:
    ```bash
